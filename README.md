@@ -1,24 +1,40 @@
-<h2 align="center">Hi, I'm Taroch Lee</h2>
+<h2 align="center">Taroch Lee</h2>
 
-<p align="center">
-  Robotics · Embedded Systems · Artificial Intelligence
-</p>
-
-<p align="center">
-  Focused on ROS2-based robotic systems, STM32 embedded development, and deep learning applications.
-</p>
+<div align="center">
+  <sub>
+    Robotics · Embedded Systems · Artificial Intelligence<br />
+    ROS2 · STM32 · Deep Learning
+  </sub>
+</div>
 
 <br />
 
 <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=TarochLee&show_icons=true&hide_border=true&theme=transparent"
-    height="160"
+    height="150"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarochLee&layout=compact&langs_count=6&hide_border=true&theme=transparent"
-    height="160"
+    height="150"
   />
+</div>
+
+<br />
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <strong>Engineering Focus</strong><br /><br />
+        <sub>
+          Building ROS2-based robotic systems, STM32 embedded solutions,<br />
+          and applying deep learning in practical engineering scenarios.<br />
+          Emphasis on system-level thinking and real-world deployment.
+        </sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
@@ -32,35 +48,17 @@
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white" />
 </div>
 
-<br />
-
-<div align="center">
-  <sub>
-    Interested in the integration of robotics, embedded hardware, and intelligent algorithms.<br />
-    Emphasis on practical engineering and system-level thinking.
-  </sub>
-</div>
-
 <br /><br />
 
 <div align="center">
-  <sub>Personal Interests · Music</sub>
-  <br /><br />
   <table>
     <tr>
-      <td align="center" width="120">
-        <strong>Girl Groups</strong>
-      </td>
       <td align="center">
-        BLACKPINK · BABYMONSTER
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <strong>Boy Group</strong>
-      </td>
-      <td align="center">
-        BIGBANG
+        <strong>Personal Interests · Music</strong><br /><br />
+        <sub>
+          Girl Groups: BLACKPINK · BABYMONSTER<br />
+          Boy Group: BIGBANG
+        </sub>
       </td>
     </tr>
   </table>
