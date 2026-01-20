@@ -40,3 +40,28 @@
     Emphasis on practical engineering and system-level thinking.
   </sub>
 </div>
+
+<br /><br />
+
+<div align="center">
+  <sub>Personal Interests · Music</sub>
+  <br /><br />
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <strong>Girl Groups</strong>
+      </td>
+      <td align="center">
+        BLACKPINK · BABYMONSTER
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <strong>Boy Group</strong>
+      </td>
+      <td align="center">
+        BIGBANG
+      </td>
+    </tr>
+  </table>
+</div>
