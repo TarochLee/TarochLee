@@ -38,17 +38,3 @@
     </tr>
   </table>
 </div>
-
-<br /><br />
-
-<!-- GitHub Stats（放在最后，作为“背景信息”） -->
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=TarochLee&show_icons=true&hide_border=true&theme=transparent"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarochLee&layout=compact&langs_count=6&hide_border=true&theme=transparent"
-    height="150"
-  />
-</div>
